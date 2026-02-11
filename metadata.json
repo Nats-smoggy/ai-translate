@@ -1,0 +1,4 @@
+{
+  "name": "AI 翻译助手",
+  "description": "基于 React 的翻译工具，使用 DeepSeek API 将中文翻译成英文并提取关键词。"
+}
